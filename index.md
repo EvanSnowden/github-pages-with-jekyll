@@ -1,3 +1,5 @@
-# Welcome to my blog
+# Evan Snowden
+# Personal Blog
 
-I'm glad you are here. I plan to talk about ...
+
+This is where I put all my stuff.
